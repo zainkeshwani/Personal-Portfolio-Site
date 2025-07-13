@@ -1,0 +1,55 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-1.png",
+      "icon": "FaLaptopCode",
+      "title": "Programming Languages",
+      "description": "• Java\n• Python\n• SQL\n• HTML5\n• CSS3\n• JavaScript\n• C#"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "icon": "IoLibrary",
+      "title": "Libraries/Frameworks",
+      "description": "• SpringBoot\n• React\n• React-Router\n• PostgreSQL\n• MySQL\n• Thymeleaf\n• Bootstrap CSS\n• Tailwind CSS"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "icon": "SiFramework",
+      "title": "Developer Tools",
+      "description": "• GitHub\n• Git\n• Postman Client\n• Docker"
+    },
+    {
+      "id": "4",
+      "src": "./img/product-chain-1.png",
+      "icon": "FaBrain",
+      "title": "Miscellaneous/Core Knowledge",
+      "description": "• Object-Oriented Programming\n• Data Structures & Algorithms\n• Full-Stack Architecture\n• RESTful API Design Principles\n• Deployment Concepts\n• MVC Pattern\n• UI/UX Fundamentals"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/gifs/emsgif.gif",
+      "title": "Employee Management System",
+      "description": "This Full Stack Employee Management System seamlessly integrates a robust Spring Boot backend with a dynamic React frontend as well the use of a MySQL database to deliver a responsive and modern CRUD application. It features a fully functional REST API, persistent database connectivity, and an intuitive user interface for managing employee data. Designed with scalability, clean architecture, and real-world enterprise practices in mind, this project showcases advanced full-stack development capabilities.",
+      "link": "https://github.com/zainkeshwani/ems-fullstack"
+    },
+    {
+      "id": "2",
+      "src": "./img/gifs/VectorVisualizerAddition.gif",
+      "title": "Vector Calculator + Visualizer",
+      "description": "Coded in Java and JavaFX. In my AP Physics class, there were a lot of vector calculations that needed to be done in order to get to a final answer. As a result of this, I made this calculator to help me in doing so. This calculator can do basic operations such as addition and subtraction, but also can find dot and cross products, the angle between two vectors, and much more. After performing these calculations, though, the visualizer allows you to draw the two vectors as well as the resultant to make it easier to see the operation's results.",
+      "link": "https://github.com/zainkeshwani/Vector-Solver-Visualizer"
+    },
+    {
+      "id": "3",
+      "src": "./img/gifs/gofishgif.gif",
+      "title": "Go Fish! — Multiplayer and AI Opponent",
+      "description": "This advanced Go Fish game is a fully interactive Python application featuring support for both multiplayer over a network and intelligent AI opponents. Built with modular architecture using separate files for game logic, networking, and player interaction, it demonstrates deep understanding of client-server communication, socket programming, and object-oriented design. With hidden hands, real-time updates, and a polished user experience, this project showcases complex game state management and strong problem-solving in networked application development. NOTE: In the demo gif above, I have three terminals open on the same computer so that I can effectively demonstrate gameplay without needing to display multiple devices. See GitHub README for more instructions on usage and capabilities.",
+      "link": "https://github.com/zainkeshwani/GoFish-Networked"
+    }
+  ]
+}
