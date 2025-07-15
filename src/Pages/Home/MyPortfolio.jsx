@@ -1,5 +1,5 @@
 import data from "../../data/index.json";
-import { FaGithub } from 'react-icons/fa';
+import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 
 export default function MyPortfolio() {
   return (
@@ -29,10 +29,13 @@ export default function MyPortfolio() {
                 <h3 className="portfolio--section--title">{item.title}</h3>
                 <p className="text-md">{item.description}</p>
               </div>
+              <div>
               <p className="text-sm portfolio--link">
-                <button onClick={() => window.open(item.link, '_blank')} 
-                className='github-button'>View In Github</button>
+                <button onClick={() => window.open(item.link, '_blank')}
+                className='github-button'>View In Github
+                <FaExternalLinkAlt size={16} style={{ marginLeft: '8px' }}/></button>
               </p>
+              </div>
             </div>
           </div>
         ))}
