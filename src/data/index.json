@@ -12,7 +12,7 @@
       "src": "./img/tag-1.png",
       "icon": "IoLibrary",
       "title": "Libraries/Frameworks",
-      "description": "• SpringBoot\n• React\n• React-Router\n• PostgreSQL\n• MySQL\n• Thymeleaf\n• Bootstrap CSS\n• Tailwind CSS"
+      "description": "• SpringBoot\n• Spring Security\n• React\n• React-Router\n• PostgreSQL\n• MySQL\n• Thymeleaf\n• Bootstrap CSS\n• Tailwind CSS"
     },
     {
       "id": "3",
