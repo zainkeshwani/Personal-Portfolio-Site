@@ -8,7 +8,7 @@ export default function AboutMe() {
         <div className="hero--section--content">
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            I'm a currently a student at Marcus High School—passionate about software engineering with a strong foundation
+            I'm a currently a student at the University of Texas at Dallas—passionate about software engineering with a strong foundation
             in object-oriented programming, full-stack development, and
             clean architecture principles. I’ve built and deployed complete web
             applications using React, Spring Boot, and PostgreSQL, with experience spanning
